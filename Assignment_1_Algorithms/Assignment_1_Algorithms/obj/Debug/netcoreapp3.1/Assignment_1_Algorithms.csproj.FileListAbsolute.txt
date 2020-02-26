@@ -1,0 +1,11 @@
+C:\Users\maxpi\Documents\GitHub\Assignment_1_algorithms\Assignment_1_Algorithms\Assignment_1_Algorithms\bin\Debug\netcoreapp3.1\Assignment_1_Algorithms.exe
+C:\Users\maxpi\Documents\GitHub\Assignment_1_algorithms\Assignment_1_Algorithms\Assignment_1_Algorithms\bin\Debug\netcoreapp3.1\Assignment_1_Algorithms.deps.json
+C:\Users\maxpi\Documents\GitHub\Assignment_1_algorithms\Assignment_1_Algorithms\Assignment_1_Algorithms\bin\Debug\netcoreapp3.1\Assignment_1_Algorithms.runtimeconfig.json
+C:\Users\maxpi\Documents\GitHub\Assignment_1_algorithms\Assignment_1_Algorithms\Assignment_1_Algorithms\bin\Debug\netcoreapp3.1\Assignment_1_Algorithms.runtimeconfig.dev.json
+C:\Users\maxpi\Documents\GitHub\Assignment_1_algorithms\Assignment_1_Algorithms\Assignment_1_Algorithms\bin\Debug\netcoreapp3.1\Assignment_1_Algorithms.dll
+C:\Users\maxpi\Documents\GitHub\Assignment_1_algorithms\Assignment_1_Algorithms\Assignment_1_Algorithms\bin\Debug\netcoreapp3.1\Assignment_1_Algorithms.pdb
+C:\Users\maxpi\Documents\GitHub\Assignment_1_algorithms\Assignment_1_Algorithms\Assignment_1_Algorithms\obj\Debug\netcoreapp3.1\Assignment_1_Algorithms.csprojAssemblyReference.cache
+C:\Users\maxpi\Documents\GitHub\Assignment_1_algorithms\Assignment_1_Algorithms\Assignment_1_Algorithms\obj\Debug\netcoreapp3.1\Assignment_1_Algorithms.AssemblyInfoInputs.cache
+C:\Users\maxpi\Documents\GitHub\Assignment_1_algorithms\Assignment_1_Algorithms\Assignment_1_Algorithms\obj\Debug\netcoreapp3.1\Assignment_1_Algorithms.AssemblyInfo.cs
+C:\Users\maxpi\Documents\GitHub\Assignment_1_algorithms\Assignment_1_Algorithms\Assignment_1_Algorithms\obj\Debug\netcoreapp3.1\Assignment_1_Algorithms.dll
+C:\Users\maxpi\Documents\GitHub\Assignment_1_algorithms\Assignment_1_Algorithms\Assignment_1_Algorithms\obj\Debug\netcoreapp3.1\Assignment_1_Algorithms.pdb
